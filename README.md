@@ -5,6 +5,9 @@
 <a href="https://travis-ci.org/nestjs/nest"><img src="https://img.shields.io/travis/coder-diogo/nest-time-tracker/master.svg?label=Master" alt="master" /></a>
 <a href="https://travis-ci.org/nestjs/nest"><img src="https://img.shields.io/travis/coder-diogo/nest-time-tracker/dev.svg?label=Dev" alt="dev" /></a>
 <a href="https://github.com/coder-diogo/nest-time-tracker/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/coder-diogo/nest-time-tracker"></a>
+<a href="https://codecov.io/gh/coder-diogo/nest-time-tracker">
+  <img src="https://codecov.io/gh/coder-diogo/nest-time-tracker/branch/master/graph/badge.svg" />
+</a>
 </p>
 
 ## Description
