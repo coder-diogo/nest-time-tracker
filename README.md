@@ -1,6 +1,3 @@
-
-  
-
   <p align="center">
 <a href="https://travis-ci.org/nestjs/nest"><img src="https://img.shields.io/travis/coder-diogo/nest-time-tracker/master.svg?label=Master" alt="master" /></a>
 <a href="https://travis-ci.org/nestjs/nest"><img src="https://img.shields.io/travis/coder-diogo/nest-time-tracker/dev.svg?label=Dev" alt="dev" /></a>
