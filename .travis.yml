@@ -9,3 +9,4 @@ script:
 after_success:
   - yarn global add codecov
   - codecov
+
